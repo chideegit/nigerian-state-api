@@ -1,0 +1,1 @@
+This is just a simple API that demonstrates the power of the django restframework.
